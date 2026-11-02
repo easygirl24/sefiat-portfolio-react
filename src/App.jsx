@@ -86,8 +86,7 @@ function App() {
       Contact
     </NavLink>
   </nav>
-</div>
-
+</div> 
 
         <a
           href="https://github.com/easygirl24"

@@ -56,7 +56,7 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/easygirl24/sefiat_portfolio_react
    ```
 
 2. Navigate into the project folder:

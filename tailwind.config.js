@@ -19,7 +19,7 @@ export default {
           teal: "#36CFC9",
         },
         ink: "#201A31",
-        paper: "#FFFDF9",
+        paper: "#FFFDF9", 
       },
       fontFamily: {
         sans: ["Inter", "sans-serif"],
