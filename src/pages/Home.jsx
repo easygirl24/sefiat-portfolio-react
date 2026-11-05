@@ -3,7 +3,7 @@ function Home() {
   return (
     <main className="mx-auto max-w-7xl px-6 py-20">
       <h1 className="text-5xl font-extrabold sm:text-7xl">
-        Ideas into <span className="text-brand">beautiful</span> digital
+        Creating and turning Ideas into <span className="text-brand"> beautiful digital </span>
         experiences.
       </h1>
 
